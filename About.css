@@ -1,0 +1,111 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1379px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 1081px;
+  height: 400px;
+  filter: brightness(0.25);
+  margin: 68px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 800;
+  font-size: 4.5rem;
+  margin: -287px 617px 0 30px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.875rem;
+  font-family: "Abril Fatface";
+  font-weight: normal;
+  margin: 223px 103px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1327px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 940px;
+    height: 348px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 446px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 3px;
+    margin-left: 3px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1454px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 720px;
+    height: 267px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: -227px;
+    margin-right: 411px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 163px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 685px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 200px;
+    margin-top: 57px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+    margin-top: -141px;
+    margin-right: 395px;
+    margin-left: 15px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1rem;
+    width: auto;
+    margin-top: 153px;
+    margin-bottom: 26px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 926px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 210px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 108px;
+    margin-bottom: 56px;
+  }
+}

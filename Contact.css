@@ -1,0 +1,133 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 657px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 135px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 431px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0 58px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 1px auto 0 2px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 20px 2px 0;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 39px;
+  height: 37px;
+  margin: 25px auto 0 225px;
+}
+
+.u-section-1 .u-shape-2 {
+  width: 32px;
+  height: 32px;
+  margin: -32px auto 0 111px;
+}
+
+.u-section-1 .u-shape-3 {
+  width: 32px;
+  height: 32px;
+  margin: -32px 534px 0 2px;
+}
+
+.u-section-1 .u-shape-4 {
+  width: 32px;
+  height: 32px;
+  margin: -32px auto 0 59px;
+}
+
+.u-section-1 .u-shape-5 {
+  width: 40px;
+  height: 38px;
+  margin: -35px auto 0 165px;
+}
+
+.u-section-1 .u-social-icons-1 {
+  height: 39px;
+  min-height: 16px;
+  width: 263px;
+  min-width: 148px;
+  margin: 67px auto 0 74px;
+}
+
+.u-section-1 .u-icon-4 {
+  height: 100%;
+}
+
+.u-section-1 .u-icon-5 {
+  height: 100%;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 576px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 355px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-shape-3 {
+    margin-right: 416px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 283px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-shape-3 {
+    margin-right: 292px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 433px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 330px;
+  }
+
+  .u-section-1 .u-shape-3 {
+    margin-right: 288px;
+  }
+}
